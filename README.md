@@ -7,7 +7,7 @@ DE BG3MDO, M6IDO
 
 How to run, copy and paste the following command into terminal.
 
-rpi-rw&&wget https://raw.githubusercontent.com/bg3mdo/bg3mdo-mmdvm-fw/master/update.sh&&chmod +x update.sh&&./update.sh
+rpi-rw&&wget https://github.com/bg3mdo/bg3mdo-mmdvm-fw/raw/master/update.sh&&chmod +x update.sh&&./update.sh
 
 
 
