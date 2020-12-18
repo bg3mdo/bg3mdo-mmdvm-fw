@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo mount -o remount,rw /
 #Install Required Software
-wget https://github.com/juribeparada/MMDVM_HS/releases/download/v1.4.17/mmdvm_hs_hat_fw.bin
+wget https://github.com/juribeparada/MMDVM_HS/releases/download/v1.5.2/mmdvm_hs_hat_fw.bin
 # DV-Mega Mods
 sudo systemctl stop mmdvmhost.timer
 sudo systemctl stop mmdvmhost.service
